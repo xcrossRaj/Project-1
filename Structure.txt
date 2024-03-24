@@ -1,0 +1,12 @@
+$ root
+    |-data
+    |-notebooks
+        |-modules
+        |-data cleaning
+            |-raw
+            |-preprocessed
+            |-statistics/description
+        |-model_fitting
+	|-model_training
+    |-references
+        
