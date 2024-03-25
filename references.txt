@@ -1,0 +1,9 @@
+Below are the links to some of the websites I used for this project
+
+Links to external references-
+
+https://medium.com/@amansangal9/predicting-credit-card-approvals-8409c5280f91
+
+https://santiagof.medium.com/structure-your-machine-learning-project-source-code-like-a-pro-44815cac8652
+
+https://stackoverflow.com/questions/20186344/importing-an-ipynb-file-from-another-ipynb-file
