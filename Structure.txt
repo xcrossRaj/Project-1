@@ -1,12 +1,17 @@
 $ root
-    |-data
-    |-notebooks
-        |-modules
-        |-data cleaning
-            |-raw
-            |-preprocessed
-            |-statistics/description
-        |-model_fitting
-	|-model_training
-    |-references
+    data/
+        credit.lisp
+        credit.names
+        crx.data
+        crx.names
+        Index
+    notebooks/
+        modules
+        cleaning/
+            raw
+	        descriptive_stats
+            handling_missing_values
+            preprocessing
+        model_training
+    references
         
