@@ -6,7 +6,7 @@ Dev used- Machine Learning
 
 About the project-
 To predict whether a borrower will get approved for credit or not based on various features using a Machine Learning Algorithm
-called Extreme Gradient Boosting. It is a powerful and flexible machine learning algorithm that can be used for classification, regression. 
+called Extreme Gradient Boosting.
 
 Language Used: Python 
 
