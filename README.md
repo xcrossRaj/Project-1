@@ -1,4 +1,4 @@
-Author- Raj D Luffy
+Author- Raj Devanshu
 
 Project Aim- Prediction of Credit Approval
 
@@ -10,7 +10,7 @@ called Extreme Gradient Boosting. It is a powerful and flexible machine learning
 
 Language Used: Python 
 
-Libraries Used: pandas, numpy, seaborn, XGBoost, scikit-learn
+Libraries Used: pandas, numpy, matplotlib, seaborn, XGBoost, scikit-learn
 
 My Learnings from this project-
 - Structuring a project 
